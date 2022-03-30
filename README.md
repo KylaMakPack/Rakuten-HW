@@ -5,4 +5,4 @@ Note: I have never programmed in Golang before so I started preping for the proj
 
 ### Start Rakuten HW Assignment
 I was asked to build a webservice in Golang that will store “foo” records in memory.
-Since I could not explain my code I put a lot of comments.
+I put a lot of comments to explain my code to make it easier when it is reviewed.
